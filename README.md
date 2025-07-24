@@ -31,15 +31,6 @@ A rule-based approach using expert-defined weights:
 - **Pattern Recognition**: Identifies natural groupings in startup characteristics
 - **Interactive Visualization**: Plotly-based scatter plots for exploration
 
-## 🚀 Quick Start
-
-```python
-# Install dependencies
-pip install pandas numpy matplotlib seaborn scikit-learn plotly
-
-# Run the model
-python startup_scoring.py
-```
 
 ## 📈 Key Features
 
