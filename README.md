@@ -66,18 +66,7 @@ scikit-learn
 plotly
 ```
 
-## 📁 Files
-
-- `startup_scoring.py` - Main scoring algorithm
-- `Startup_Scoring_Dataset.csv` - Input dataset (required)
-
-## 🤝 Usage
-
-1. Ensure `Startup_Scoring_Dataset.csv` is in the same directory
-2. Run the script to generate scores and visualizations
-3. Review top/bottom performers and clustering results
-4. Use interactive plots for deeper analysis
 
 ---
 
-*A data-driven approach to startup evaluation combining domain expertise with machine learning insights.*
+
